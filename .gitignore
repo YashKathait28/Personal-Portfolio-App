@@ -12,10 +12,9 @@ dist
 dist-ssr
 *.local
 dist.zip
-assets
-public
-package-lock.json
-package.json
+
+
+
 
 # Editor directories and files
 .vscode/*
