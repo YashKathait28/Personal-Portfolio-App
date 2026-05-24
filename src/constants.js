@@ -101,7 +101,7 @@ export const experiences = [
   {
     id: 0,
     img: etharaLogo,
-    role: "Full Stack Developer / AIML Intern",
+    role: "LLM Post Training Intern",
     company: "Ethara.AI",
     date: "February 2026 – May 2026",
     desc: "Worked at Ethara.AI on AI tasks involving LLM workflows, web applications, and real-time data handling. Contributed to API integration, dashboard features, and AI-based evaluation workflows while improving problem-solving and development skills in a professional environment.",
