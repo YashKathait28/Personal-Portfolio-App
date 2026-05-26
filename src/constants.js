@@ -27,7 +27,7 @@ import vercelLogo from "./assets/tech_logo/vercel.png";
 
 // Experience Section Logo's
 import skillsbgimg from "./assets/company_logo/3bg.png";
-import etharaLogo from "./assets/company_logo/ethara_ai.png"; 
+import etharaLogo from "./assets/company_logo/ethara_ai.png";
 import agcLogo from "./assets/company_logo/chi.png";
 
 // Education Section Logo's
@@ -39,7 +39,7 @@ import vpsLogo from "./assets/education_logo/ngfs.png";
 import githubdetLogo from "./assets/work_logo/AI-Chat-Bot.png";
 import csprepLogo from "./assets/work_logo/E-commerce.png";
 import movierecLogo from "./assets/work_logo/EMS-IMG.png";
-import taskremLogo from "./assets/work_logo/Techno-web.png";
+import dentalLogo from "./assets/work_logo/Dental-IMG.png";
 import npmLogo from "./assets/work_logo/Video-Con-IMG.png";
 import webverLogo from "./assets/work_logo/Gallery-IMG.png";
 
@@ -243,14 +243,14 @@ export const projects = [
     webapp: "https://video-conferencing-app-teal.vercel.app/",
   },
   {
-    id: 4,
-    title: "Techno-Web",
+    id: 6,
+    title: "Dental Surgical Instrument Detection System",
     description:
-      "I created a Techno-Web website featuring a modern, responsive navigation bar built with clean design and smooth interactions. The project highlights my ability to implement user-friendly interfaces with attention to detail in layout, styling, and responsiveness across devices.",
-    image: taskremLogo,
-    tags: ["HTML", "CSS", "JavaScript", "Chrome Extension"],
-    github: "https://github.com/YashKathait28/Techno-web",
-    webapp: "https://techno-web-eight.vercel.app/",
+      "An AI-powered surgical instrument detection web application built using YOLO and React.js for real-time identification and tracking of dental surgical tools during live procedures. The system focuses on accurate object detection, real-time monitoring, and efficient healthcare workflow support.",
+    image: dentalLogo,
+    tags: ["React JS", "YOLO", "Python", "AI/ML", "Computer Vision", "API"],
+    github: "https://github.com/YashKathait28/Dental-Surgical-Instrument-Detection-App",
+    webapp: "https://dental-surgical-instrument-detectio.vercel.app/",
   },
   {
     id: 5,
