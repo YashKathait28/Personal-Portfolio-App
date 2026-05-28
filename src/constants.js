@@ -244,7 +244,7 @@ export const projects = [
     webapp: "https://video-conferencing-app-teal.vercel.app/",
   },
   {
-    id: 6,
+    id: 4,
     title: "Dental Surgical Instrument Detection System",
     description:
       "An AI-powered surgical instrument detection web application built using YOLO and React.js for real-time identification and tracking of dental surgical tools during live procedures. The system focuses on accurate object detection, real-time monitoring, and efficient healthcare workflow support.",
@@ -266,7 +266,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 6,
     title: "AI Interview Preparation Assistant",
     description:
       "A full stack AI-powered interview preparation platform built using the MERN stack and Gemini AI. The application analyzes resumes and job descriptions to generate personalized interview questions, skill gap analysis, preparation roadmaps, and ATS-friendly resume PDFs.",
@@ -281,6 +281,6 @@ export const projects = [
       "SCSS",
     ],
     github: "https://github.com/YashKathait28/Interview-AI-Assistant",
-    webapp: "https://interview-ai-assistant-8how.vercel.app/",
+    webapp: "https://interview-ai-assistant-wvt2.vercel.app/login",
   },
 ];
