@@ -42,6 +42,7 @@ import movierecLogo from "./assets/work_logo/EMS-IMG.png";
 import dentalLogo from "./assets/work_logo/Dental-IMG.png";
 import npmLogo from "./assets/work_logo/Video-Con-IMG.png";
 import webverLogo from "./assets/work_logo/Gallery-IMG.png";
+import interviewAiLogo from "./assets/work_logo/AI-interview-assistant.png";
 
 export const SkillsInfo = [
   {
@@ -248,8 +249,9 @@ export const projects = [
     description:
       "An AI-powered surgical instrument detection web application built using YOLO and React.js for real-time identification and tracking of dental surgical tools during live procedures. The system focuses on accurate object detection, real-time monitoring, and efficient healthcare workflow support.",
     image: dentalLogo,
-    tags: ["React JS", "YOLO", "Python", "AI/ML", "Computer Vision", "API"],
-    github: "https://github.com/YashKathait28/Dental-Surgical-Instrument-Detection-App",
+    tags: ["Next JS", "YOLO", "Python", "AI/ML", "Computer Vision", "API"],
+    github:
+      "https://github.com/YashKathait28/Dental-Surgical-Instrument-Detection-App",
     webapp: "https://dental-surgical-instrument-detectio.vercel.app/",
   },
   {
@@ -261,5 +263,24 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript", "Framer Motion", "React JS", "API"],
     github: "https://github.com/YashKathait28/Gallery-App",
     webapp: "https://gallery-app-rust.vercel.app/",
+  },
+
+  {
+    id: 7,
+    title: "AI Interview Preparation Assistant",
+    description:
+      "A full stack AI-powered interview preparation platform built using the MERN stack and Gemini AI. The application analyzes resumes and job descriptions to generate personalized interview questions, skill gap analysis, preparation roadmaps, and ATS-friendly resume PDFs.",
+    image: interviewAiLogo,
+    tags: [
+      "React JS",
+      "Node JS",
+      "Express JS",
+      "MongoDB",
+      "Gemini AI",
+      "JWT",
+      "SCSS",
+    ],
+    github: "https://github.com/YashKathait28/Interview-AI-Assistant",
+    webapp: "https://interview-ai-assistant-8how.vercel.app/",
   },
 ];
